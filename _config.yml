@@ -77,8 +77,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zector"
-  avatar           : "bio-photo.jpg"
+  name             :
+  avatar           : "logo128.png"
   bio              : "Vector Graphics Tools"
   location         :
   email            :
